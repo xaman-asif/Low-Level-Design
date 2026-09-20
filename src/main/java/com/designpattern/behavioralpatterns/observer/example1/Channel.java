@@ -1,0 +1,5 @@
+package com.designpattern.behavioralpatterns.observer.example1;
+
+public interface Channel {
+  void update(Object o);
+}
